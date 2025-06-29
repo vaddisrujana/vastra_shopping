@@ -1,0 +1,16 @@
+.women-container{
+    border:2px solid black;
+    width: 200px;   /* Set desired width */
+    height: 400px;  /* Set desired height */
+    object-fit: cover; 
+}
+.add-to-bag{
+    border:2px solid teal;
+    padding: 5px;
+    background: transparent;
+    color:teal;
+    width:150px;
+}
+.name{
+    color:#535766;
+}

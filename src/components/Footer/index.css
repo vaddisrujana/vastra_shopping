@@ -1,0 +1,14 @@
+.footer{
+    background-color: #B2BEB5;
+    width:100vw;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-logo{
+    height: 40vh;
+    width:20vw;
+}
+.footer-heading{
+    font-size: 20px;
+    font-weight: bold;
+}
